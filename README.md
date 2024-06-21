@@ -15,5 +15,5 @@ To know more about each columns of the dataset read line 9 to 20 here :-
 **File 3** -  This file contains the conclusions drawn from the EDA. It provides a summary of the insights and patterns identified during the analysis, highlighting key findings and correlations within the dataset.  
 **Link** ➡️ https://github.com/Arijeet2k1/Exploratory-Data-Analysis/blob/main/Conclusions
 
-**File 3** - This image showcases snapshot of a dynamic Power BI dashboard with multiple graphs, simplifying data understanding and enhancing decision-making processes.  
+**File 4** - This image showcases snapshot of a dynamic Power BI dashboard with multiple graphs, simplifying data understanding and enhancing decision-making processes.  
 **Link** ➡️ https://github.com/Arijeet2k1/Exploratory-Data-Analysis/blob/main/Power_Bi-Smartphones_Data.jpg
