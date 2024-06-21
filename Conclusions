@@ -1,0 +1,50 @@
+**Findings-**
+
+**Univariate Analysis**
+
+**Column->**    Brands
+top 3 brands present in this data set are -
+   Brand     |   No. Of Phones  |  Percentage
+1- Xiaomi    |   175            |  (21.7%)
+2- Samsung   |   132            |  (16.4%)
+3- Vivo      |   111            |  (13.8%)
+
+**Column->**    5g availability 
+56% of the smartphones supports 5g and rest 44% smartphones doesn't
+
+**Column->**    Processors
+most of the smartphones uses Mediatek or Snapdragon Processors
+
+**Column->**    Ram Used
+34.5% of Smartphones uses 8GB Ram
+23.9% of Smartphones uses 6GB Ram
+22.1% of Smartphones uses 4GB Ram
+remain % is for others
+
+**Column->**    Rom Used
+128 GB ROM is most popular and is used in 53.4% Smartphones
+
+**Column->**    Fast Charging 
+91.2% of the phones support fast charging
+
+**Column->**    Refresh Rate
+47.8% of the smartphones have 120 Hz Refresh Rate
+30.4% of the smartphones have 90 Hz Refresh Rate
+15.4% of the smartphones have 60 Hz Refresh Rate
+remaining percentage is for others
+
+**Column->**    Operating system
+94.2% of the smartphones have Android OS
+
+**Bivariate Analysis**
+
+1. Apple is the costliest brand in this daataset
+2. When the price increases the rating also increases
+3. Smartphones with 5G availability have a significantly higher average price compared to those without 5G
+4. Bionic Processors comes with costliest smartphones
+5. ROM capacity increases with price
+6. Most smartphones have a battery capatity between 4000 and 5000 mAh
+7. Smartphones that support fast charging have a higher average price compared to others
+8. High resolution Display are generally used in costly smartphones
+9. Rom capacity significantly increases the price
+10. Ram ssignificantly increases customer satisfaction
