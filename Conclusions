@@ -1,50 +1,60 @@
 Findings-
+Solving real live business problems
 
-Univariate Analysis
+Univariate Analysis:
+Column: 5G Availability
+- 56% of smartphones currently support 5G technology, while 44% do not.
 
-Column->    Brands
-top 3 brands present in this data set are -
-   Brand     |   No. Of Phones  |  Percentage
-1- Xiaomi    |   175            |  (21.7%)
-2- Samsung   |   132            |  (16.4%)
-3- Vivo      |   111            |  (13.8%)
+Column: Processors
+- The majority of smartphones are equipped with either Mediatek or Snapdragon processors.
 
-Column->    5g availability 
-56% of the smartphones supports 5g and rest 44% smartphones doesn't
+Column: RAM
+- The distribution of RAM sizes in smartphones is as follows:
+  - 34.5% of smartphones have 8GB of RAM.
+  - 23.9% of smartphones have 6GB of RAM.
+  - 22.1% of smartphones have 4GB of RAM.
+  - The remaining percentage includes other RAM sizes.
 
-Column->    Processors
-most of the smartphones uses Mediatek or Snapdragon Processors
+Column: ROM
+- 128GB of internal storage (ROM) is the most popular, used in 53.4% of smartphones.
 
-Column->    Ram Used
-34.5% of Smartphones uses 8GB Ram
-23.9% of Smartphones uses 6GB Ram
-22.1% of Smartphones uses 4GB Ram
-remain % is for others
+Column: Fast Charging
+- 91.2% of smartphones support fast charging technology.
 
-Column->    Rom Used
-128 GB ROM is most popular and is used in 53.4% Smartphones
+Column-> Refresh Rate
+- The distribution of refresh rates in smartphones is as follows:
+  - 47.8% of smartphones feature a 120 Hz refresh rate.
+  - 30.4% of smartphones feature a 90 Hz refresh rate.
+  - 15.4% of smartphones feature a 60 Hz refresh rate.
+  - The remaining percentage includes other refresh rates.
+Given that a significant portion of the market prefers higher refresh rates (120 Hz and 90 Hz), 
+it would be important to include high refresh rate displays in our new models to meet consumer preferences.
 
-Column->    Fast Charging 
-91.2% of the phones support fast charging
+Bivariate Analysis:
+1. Price and Rating
+   - There is a positive correlation between smartphone price and customer ratings. Higher-priced smartphones tend to receive better ratings. Prioritizing higher-priced models may help achieve better ratings.
 
-Column->    Refresh Rate
-47.8% of the smartphones have 120 Hz Refresh Rate
-30.4% of the smartphones have 90 Hz Refresh Rate
-15.4% of the smartphones have 60 Hz Refresh Rate
-remaining percentage is for others
+2. 5G Availability and Price
+   - Smartphones with 5G support have significantly higher average prices compared to those without 5G. Including 5G support, despite the potential increase in price, could be beneficial given the growing demand for this technology.
 
-Column->    Operating system
-94.2% of the smartphones have Android OS
+3. Processor Brand and Price
+   - Smartphones equipped with Bionic processors are among the most expensive. Including premium processors in our models can justify higher pricing and appeal to customers seeking high performance.
 
-Bivariate Analysis
+4. Price and RAM
+   - The amount of RAM in a smartphone positively correlates with its price. Offering higher RAM options can command higher prices and cater to performance-focused consumers.
 
-1. Apple is the costliest brand in this daataset
-2. When the price increases the rating also increases
-3. Smartphones with 5G availability have a significantly higher average price compared to those without 5G
-4. Bionic Processors comes with costliest smartphones
-5. ROM capacity increases with price
-6. Most smartphones have a battery capatity between 4000 and 5000 mAh
-7. Smartphones that support fast charging have a higher average price compared to others
-8. High resolution Display are generally used in costly smartphones
-9. Rom capacity significantly increases the price
-10. Ram ssignificantly increases customer satisfaction
+5. Price and ROM
+   - Internal storage capacity (ROM) significantly influences smartphone pricing. Providing larger ROM options can justify higher prices and meet the needs of users requiring more storage.
+
+6. Price and Fast Charging
+   - Smartphones that support fast charging technology tend to have higher average prices. Including fast charging, even if it raises the price, can attract customers looking for convenience and quicker charging times.
+
+7. Price and Resolution
+   - High-resolution displays are generally found in more expensive smartphones. Including higher-resolution screens can justify higher prices and enhance the visual experience for users.
+
+8. Price and Refresh Rate
+   - There is a positive correlation between screen refresh rates and smartphone prices. Offering higher refresh rates, despite the potential price increase, can appeal to customers seeking smoother and more responsive displays.
+
+9. RAM and Ratings
+   - By analyzing the correlation between ratings and RAM capacity, it's evident that smartphones with higher RAM capacities significantly increase customer satisfaction. 
+     Higher RAM allows for better performance, enhanced multitasking capabilities, and overall improved user experience, contributing to higher ratings and customer satisfaction.
