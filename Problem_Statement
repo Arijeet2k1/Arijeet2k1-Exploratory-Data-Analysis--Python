@@ -19,23 +19,21 @@ Univariate questions:
 4. ROM:
    - What is the average internal storage (ROM) in current smartphones? Should we provide multiple ROM options to meet different customer needs?
 
-5. Battery Capacity:
-   - What is the average battery capacity in current smartphones? Is it important to offer higher battery capacities to attract customers?
-
-6. Fast Charging Speed:
+5. Fast Charging Speed:
    - What are the typical fast charging speeds available in the market? Should our new smartphones support fast charging technology?
 
-7. Display Size (inches):
-   - What is the average display size in current smartphones? Is it necessary to offer various display sizes to meet market demands?
+6. Refresh Rate:
+   - Is it important to include high refresh rate displays in our new models?
 
 Bivariate Questions 
+
 1. Price and Rating:
    - How does the price of smartphones correlate with customer ratings? Should we prioritize higher-priced models to achieve better ratings?
 
 2. 5G Availability and Price:
    - How does 5G availability impact smartphone pricing? Should we include 5G support even if it increases the price?
 
-3. Processor Name and Price:
+3. Processor Brand and Price:
    - How do different processors influence smartphone pricing? Should we include premium processors to justify higher prices?
 
 4. Price and RAM:
@@ -47,11 +45,11 @@ Bivariate Questions
 6. Price and Fast Charging:
    - How does the presence of fast charging technology impact smartphone prices? Should we include fast charging even if it raises the price?
 
-7. Price and Fast Charging Speed:
-   - How does the speed of fast charging correlate with smartphone prices? Should we offer higher fast charging speeds to command premium prices?
-
-8. Price and Resolution:
+7. Price and Resolution:
    - How does screen resolution affect smartphone pricing? Should we include higher-resolution screens to justify higher prices?
 
-9. Price and Refresh Rate:
+8. Price and Refresh Rate:
    - How does the screen refresh rate influence smartphone pricing? Should we offer higher refresh rates even if they increase the price?
+
+9. RAM and Ratings
+   - How does the amount of RAM impact customer satisfaction with smartphones?
