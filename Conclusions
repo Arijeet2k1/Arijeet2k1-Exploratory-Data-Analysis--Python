@@ -1,5 +1,4 @@
 Findings-
-Solving real live business problems
 
 Univariate Analysis:
 Column: 5G Availability
@@ -29,6 +28,7 @@ Column-> Refresh Rate
   - The remaining percentage includes other refresh rates.
 Given that a significant portion of the market prefers higher refresh rates (120 Hz and 90 Hz), 
 it would be important to include high refresh rate displays in our new models to meet consumer preferences.
+
 
 Bivariate Analysis:
 1. Price and Rating
